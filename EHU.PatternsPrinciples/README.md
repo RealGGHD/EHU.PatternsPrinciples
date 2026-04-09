@@ -19,4 +19,4 @@
 
 * UI test automation with Selenium
 * Stable browser configuration (fixed window size)
-* Separation of concerns (tests / pages / driver)
+* Separation of concerns (tests / pages / drivers)
